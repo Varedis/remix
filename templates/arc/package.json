@@ -18,7 +18,7 @@
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
-    "@architect/architect": "^10.7.2",
+    "@architect/architect": "^11.0.0",
     "@remix-run/dev": "*",
     "@remix-run/eslint-config": "*",
     "@types/react": "^18.0.25",
