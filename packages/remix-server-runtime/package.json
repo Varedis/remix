@@ -20,7 +20,7 @@
     "@types/cookie": "^0.4.0",
     "@types/react": "^18.0.15",
     "@web3-storage/multipart-parser": "^1.0.0",
-    "cookie": "^0.4.1",
+    "cookie": "^0.7.0",
     "set-cookie-parser": "^2.4.8",
     "source-map": "^0.7.3"
   },
